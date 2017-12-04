@@ -1,7 +1,10 @@
 # v2hero  [![Build Status](https://travis-ci.org/onplus/v2hero.svg?branch=ci)](https://travis-ci.org/onplus/v2hero)
 
+### 使用前请先阅读[Heroku服务的相关政策](https://translate.google.com/translate?sl=en&tl=zh-CN&js=y&prev=_t&hl=zh-CN&ie=UTF-8&u=https%3A%2F%2Fwww.heroku.com%2Fpolicy%2Faup&edit-text=&act=url)与[配额限制](https://devcenter.heroku.com/articles/free-dyno-hours)
 
-1. 点击[![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/onplus/heroku_go-getting-started)创建HerokuAPP，配置服务器参数(appname和uuid，类似账号密码)
+### 部署方法
+
+1. 点击 [![](https://www.herokucdn.com/deploy/button.png)](https://heroku.com/deploy?template=https://github.com/onplus/heroku_go-getting-started) 创建HerokuAPP，配置服务器参数(appname和uuid，类似账号密码)
 
    ![create new app heroku](https://user-images.githubusercontent.com/31188782/33353392-905c3abe-d4e8-11e7-812a-866f95875ef9.png)
 
@@ -42,7 +45,7 @@
    
 7. 配置代理
 
-   v2ray客户端一般都实现了内外分流，也可以配合插件细化管理https://github.com/gfwlist/gfwlist/wiki
+    v2ray客户端一般都实现了内外分流，也可以配合插件细化管理https://github.com/gfwlist/gfwlist/wiki
    
 ### 实现参考 
 
