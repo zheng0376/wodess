@@ -14,7 +14,7 @@
 
 3. 在项目的More options --> settings 设置Environment Variables：
    
-   HEROKU_APPNAME(步骤一的appname)，HEROKU_EMAIL(注册heroku的邮箱，如果邮箱存在特殊字符会导致build失败，用反斜杠 \ 转义 http://www.tldp.org/LDP/abs/html/special-chars.html)和[HEROKU_APIKEY](https://dashboard.heroku.com/account)(API Key不是Heroku密码)
+   HEROKU_APPNAME(步骤一的appname)，HEROKU_EMAIL(注册heroku的邮箱，如果邮箱存在特殊字符会导致build失败，用反斜杠 \ 转义 http://www.tldp.org/LDP/abs/html/special-chars.html )和[HEROKU_APIKEY](https://dashboard.heroku.com/account)(API Key不是Heroku密码)
    
    ![apikey](https://user-images.githubusercontent.com/31188782/33432133-ca7ecf7a-d611-11e7-96de-8269712b40f1.png)
 
