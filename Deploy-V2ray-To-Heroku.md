@@ -23,7 +23,7 @@
 
    ![ENV](https://user-images.githubusercontent.com/31188782/33354723-2e10d2e6-d4ef-11e7-8d6c-70be5b5eee2a.png)
 
-4. 环境变量配置完成后重新开始TraviCi Build（没有自动开始时，可以修改自己的项目主动触发。）
+4. 环境变量配置完成后重新开始TraviCi Build（没有自动开始时，可以修改自己项目readme.md主动触发。）
 
    ![Travis Restart](https://user-images.githubusercontent.com/31188782/33354474-13d66a40-d4ee-11e7-9016-3196a58df6c1.png)
    
