@@ -15,9 +15,11 @@
 3. 在项目的More options --> settings 设置Environment Variables：
    - HEROKU_APPNAME 步骤一的appname 
 
-   - HEROKU_EMAIL 注册heroku的邮箱，如果邮箱存在[特殊字符](http://www.tldp.org/LDP/abs/html/special-chars.html )会导致build失败，用反斜杠 \ 转义 
+   - HEROKU_EMAIL 注册heroku的邮箱
 
    - [HEROKU_APIKEY](https://dashboard.heroku.com/account) API Key不是Heroku密码 
+
+   如果appname和邮箱存在[特殊字符](http://www.tldp.org/LDP/abs/html/special-chars.html )会导致build失败，需要用反斜杠 \ 转义 
    
    ![apikey](https://user-images.githubusercontent.com/31188782/33432133-ca7ecf7a-d611-11e7-96de-8269712b40f1.png)
 
@@ -36,7 +38,7 @@
 6. 配置V2Ray本地参数（[模版参考vmess+ws+tls](https://github.com/KiriKira/vTemplate/blob/master/websocket%2BTLS/config_client.json)）
 
      以v2rayN为例 https://www.v2ray.com/ui_client/ 
-    
+
     ![v2rayN80](https://user-images.githubusercontent.com/31188782/33420552-fdbcbd34-d5e9-11e7-897a-6508b9778e06.png)  
       
     ![v2rayN443](https://user-images.githubusercontent.com/31188782/33361465-3b90a2a6-d513-11e7-9ddc-adad7ae829ed.png)
