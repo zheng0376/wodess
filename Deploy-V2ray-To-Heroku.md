@@ -1,4 +1,4 @@
-# v2hero  [![Build Status](https://travis-ci.org/onplus/v2hero.svg?branch=ci)](https://travis-ci.org/onplus/v2hero)
+# v2hero  [![Build Status](https://travis-ci.org/onplus/v2hero.svg?branch=core-3.1)](https://travis-ci.org/onplus/v2hero)
 
 ### 使用前请先阅读[Heroku服务的相关政策](https://translate.google.com/translate?sl=en&tl=zh-CN&js=y&prev=_t&hl=zh-CN&ie=UTF-8&u=https%3A%2F%2Fwww.heroku.com%2Fpolicy%2Faup&edit-text=&act=url)与[配额限制](https://devcenter.heroku.com/articles/free-dyno-hours)
 
