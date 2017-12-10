@@ -52,6 +52,9 @@
 
     v2ray客户端一般都实现了内外分流，也可以配合插件细化管理https://github.com/gfwlist/gfwlist/wiki
    
+8. 测试服务器
+   https://github.com/onplus/shadowsocks-heroku/issues/119
+
 ### 实现参考 
 
 https://github.com/v2ray/v2ray-core
