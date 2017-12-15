@@ -60,6 +60,13 @@
 8. 测试服务器
    https://github.com/onplus/shadowsocks-heroku/issues/119
 
+9. 更新服务端版本
+   
+   修改Dockerfile (VER=3.1)
+```
+ENV CONFIG_JSON1=none CONFIG_JSON2=none UUID=91cb66ba-a373-43a0-8169-33d4eeaeb857 CONFIG_JSON3=none CERT_PEM=none KEY_PEM=none VER=3.1
+```
+
 ### 实现参考 
 
 https://github.com/v2ray/v2ray-core
